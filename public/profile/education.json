@@ -1,19 +1,18 @@
 {
     "education":[
         {
-            "title": "Jun 20XX - Jun 20YY",
-            "cardTitle": "B.Tech, Computer Science",
-            "cardSubtitle":"XYZ University, City",
-            "cardDetailedText": "CGPA - 9.5",
+            "title": "Febreo 2023 - Julio 2023",
+            "cardTitle": "Full Stasck Software Developer",
+            "cardSubtitle":"4Geeks Academy, Chile",
             "icon" : {
-                "src": "images/education/lorem-ipsum.png"
+                "src": "images/education/4geeks.jpg"
             }
         },
         {
-            "title": "Apr 20XX",
-            "cardTitle": "High School",
-            "cardSubtitle":"ABC School, City",
-            "cardDetailedText": "Marks - 95%"
+            "title": "2006 - 2011",
+            "cardTitle": "Ingeniero Ambiental",
+            "cardSubtitle":"Universidad Gran Marsical de Ayacucho, Venezuela"
+           
         }
     ]
 }
