@@ -1,7 +1,7 @@
 {
     "education":[
         {
-            "title": "Febreo 2023 - Julio 2023",
+            "title": "02/2023 - 06/2023",
             "cardTitle": "Full Stasck Software Developer",
             "cardSubtitle":"4Geeks Academy, Chile",
             "icon" : {
@@ -11,7 +11,10 @@
         {
             "title": "2006 - 2011",
             "cardTitle": "Ingeniero Ambiental",
-            "cardSubtitle":"Universidad Gran Marsical de Ayacucho, Venezuela"
+            "cardSubtitle":"Universidad Gran Marsical de Ayacucho, Venezuela",
+            "icon" : {
+                "src": "images/education/ugma.jpeg"
+            }
            
         }
     ]
